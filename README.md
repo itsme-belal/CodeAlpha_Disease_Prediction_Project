@@ -219,4 +219,5 @@ The notebook produces the following plots:
 
 ## Author
 
-**Belal Hossain**  
+**Name - Belal Hossain**  
+**Linkdin - https://www.linkedin.com/in/itsme-belal/**
