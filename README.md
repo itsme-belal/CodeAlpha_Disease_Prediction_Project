@@ -50,13 +50,15 @@ This project applies supervised binary classification to three well-known medica
 ## Project Structure
 
 ```
-disease-prediction/
-│
-├── Disease_Prediction_ML.ipynb      # Main Jupyter Notebook (all code)
+datasets/
 │
 ├── Heart_Disease_Prediction.csv     # Heart disease dataset
 ├── diabetes.csv                     # Diabetes dataset
 ├── breast_cancer.csv                # Breast cancer dataset
+│
+disease-prediction/
+│
+├── Disease_Prediction_ML.ipynb      # Main Jupyter Notebook (all code)
 │
 ├── final_results.csv                # Generated: full metrics table
 │
