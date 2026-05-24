@@ -1,0 +1,13 @@
+Dataset,Algorithm,Accuracy,Precision,Recall,F1-Score,AUC,CV-AUC
+Heart Disease,SVM,81.48%,76.92%,83.33%,80.00%,88.61%,90.32±2.68%
+Heart Disease,Logistic Regression,85.19%,78.57%,91.67%,84.62%,89.86%,89.76±3.73%
+Heart Disease,Random Forest,83.33%,80.00%,83.33%,81.63%,86.67%,89.63±4.41%
+Heart Disease,XGBoost,81.48%,76.92%,83.33%,80.00%,87.08%,87.78±6.50%
+Diabetes,SVM,75.32%,66.00%,61.11%,63.46%,79.24%,83.72±1.94%
+Diabetes,Logistic Regression,71.43%,60.87%,51.85%,56.00%,82.30%,83.34±3.55%
+Diabetes,Random Forest,74.68%,65.31%,59.26%,62.14%,81.33%,81.70±2.56%
+Diabetes,XGBoost,75.32%,65.38%,62.96%,64.15%,81.50%,78.30±1.80%
+Breast Cancer,SVM,96.35%,92.16%,97.92%,94.95%,97.59%,99.33±1.05%
+Breast Cancer,Logistic Regression,96.35%,92.16%,97.92%,94.95%,99.18%,99.69±0.31%
+Breast Cancer,Random Forest,96.35%,92.16%,97.92%,94.95%,98.58%,99.43±0.78%
+Breast Cancer,XGBoost,96.35%,92.16%,97.92%,94.95%,98.67%,99.29±0.89%
