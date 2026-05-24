@@ -219,6 +219,4 @@ The notebook produces the following plots:
 
 ## Author
 
-**Task 4 — Disease Prediction from Medical Data**  
-Machine Learning Classification Project  
-Datasets sourced from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)
+**Belal Hossain**  
